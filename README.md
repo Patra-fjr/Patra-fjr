@@ -41,61 +41,15 @@ Experienced in building systems using **PHP, CodeIgniter 4, Java, Spring Boot, a
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-5A4E8C?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🚀 Projects
-
-### Web-Based POS System – CodeIgniter 4 & MySQL
-Developed a **web-based POS system** using CodeIgniter 4 and MySQL featuring:
-
-- Product management
-- Transaction processing
-- Sales monitoring
-- Modular architecture for scalability
-
----
-
-### Restaurant Ordering System – Spring Boot & Docker
-Built a **RESTful API backend** for a restaurant ordering system.
-
-Key features:
-
-- Order processing
-- Backend API architecture
-- Containerized deployment using **Docker**
-- Scalable system design
-
----
-
-### Web Ordering System – PHP & MySQL
-Designed and developed a **web ordering system** with:
-
-- Authentication system
-- Product ordering
-- MySQL database integration
-- Dynamic PHP-based backend
-
----
-
-### GUI Library Management System – Java
-Built a **Java Swing desktop application** for library management.
-
-Features:
-
-- Book management
-- User management
-- Desktop GUI interface
-- Object-oriented programming structure
-
----
-
 ## 🎓 Education
 
-**CEP-CCIT FTUI – Full Stack Developer Program**  
+**CEP-CCIT FTUI – Software Engineering**  
 2024 – Present  
 
 Focused on:
@@ -119,7 +73,7 @@ Focused on:
 
 ## 🏫 Organizational Experience
 
-**SquadMagz (SMA)**  
+**SquadMagz (Senior High School)**  
 Member
 
 - Involved in media production and editorial activities
