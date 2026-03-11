@@ -43,55 +43,7 @@ Experienced in building systems using **PHP, CodeIgniter 4, Java, Spring Boot, a
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-</p>
 
----
-
-## 🎓 Education
-
-**CEP-CCIT FTUI – Software Engineering**  
-2024 – Present  
-
-Focused on:
-
-- Web Development
-- Software Architecture
-- Database Systems
-- RESTful API Development
-- Containerization with Docker
-
----
-
-## 🧠 Soft Skills
-
-- Problem Solving  
-- Team Collaboration  
-- Time Management  
-- Communication Skills  
-
----
-
-## 🏫 Organizational Experience
-
-**SquadMagz (Senior High School)**  
-Member
-
-- Involved in media production and editorial activities
-- Contributed to school publications
-
-**CCIT Squad**  
-Member
-
-- Active in internal campus activities and collaborations
-
----
-
-## 🌐 Languages
-
-- Bahasa Indonesia
-- English
-
----
 
 <div align="center">
 
